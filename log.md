@@ -24,6 +24,7 @@
 ### Day 1: January 2nd, Tuesday
 
 **Today's Progress**: I've set up my 100-days-of-code-fork and started with the Javascript-Course at Codecademy.
+Did the first part of JS-Introduction.
 
 **Thoughts** At last I'm beginning, it will be slower than the official challenge, but I took the first step!
 
