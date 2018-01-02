@@ -25,7 +25,7 @@
 
 **Today's Progress**: I've set up my 100-days-of-code-fork and started with the Javascript-Course at Codecademy.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** At last I'm beginning, it will be slower than the official challenge, but I took the first step!
 
 **Link(s) to work**: https://www.codecademy.com
 
