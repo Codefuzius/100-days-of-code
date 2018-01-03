@@ -30,3 +30,13 @@ Did the first part of JS-Introduction.
 
 **Link(s) to work**: https://www.codecademy.com
 
+### Day 2: January 3nd, Tuesday
+
+**Today's Progress**: Did the next part of JS-Introduction.
+Since I'm doing this course the second time, now in the new version, I see the differences between ES6 and before. Nice :)
+
+**Thoughts** Do mistakes! You'll learn from it a lot' And don't think your're too stupid, you're not!
+
+
+**Link(s) to work**: https://www.codecademy.com
+
