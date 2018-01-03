@@ -30,7 +30,7 @@ Did the first part of JS-Introduction.
 
 **Link(s) to work**: https://www.codecademy.com
 
-### Day 2: January 3nd, Tuesday
+### Day 2: January 3nd, Wednesday
 
 **Today's Progress**: Did the next part of JS-Introduction.
 Since I'm doing this course the second time, now in the new version, I see the differences between ES6 and before. Nice :)
