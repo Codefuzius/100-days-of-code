@@ -30,6 +30,7 @@ Did the first part of JS-Introduction.
 
 **Link(s) to work**: https://www.codecademy.com
 
+
 ### Day 2: January 3nd, Wednesday
 
 **Today's Progress**: Did the next part of JS-Introduction.
@@ -37,6 +38,43 @@ Since I'm doing this course the second time, now in the new version, I see the d
 
 **Thoughts** Do mistakes! You'll learn from it a lot' And don't think your're too stupid, you're not!
 
+**Link(s) to work**: https://www.codecademy.com
+
+
+### Day 2: January 4th, Thursday
+
+**Today's Progress**: Again JS-Introduction, If Else-Statements. I struggled with a error, which somehow no error was, when I got the code as solution. My code was the same as the solution, and after that I couldn't get the error again. 
+
+**Thoughts** Strange and demotivating. BUT I was very close to not doing the challenge at all, and at least I sat down half an hour, I'm kinda proud of myself.
 
 **Link(s) to work**: https://www.codecademy.com
+
+
+### Day 2: January 3nd, Wednesday
+
+**Today's Progress**: Did the next part of JS-Introduction.
+Since I'm doing this course the second time, now in the new version, I see the differences between ES6 and before. Nice :)
+
+**Thoughts** Do mistakes! You'll learn from it a lot' And don't think your're too stupid, you're not!
+
+**Link(s) to work**: https://www.codecademy.com
+
+
+### Day 2: January 5th, Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**: 
+
+
+### Day 2: January 6nd, Saturday
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**: 
+
 
